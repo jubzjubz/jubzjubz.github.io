@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.htmlsave.net	TRUE	/	FALSE	1999999999	__cfduid	dfb3017cb6eafa0de2fc5fa0b2aea6e801610820406
+6003282030068.htmlsave.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.elfsight.com	TRUE	/	FALSE	1999999999	__cfduid	d04e790b190a0ec1f082c752a40e095791610820416
+static.elfsight.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

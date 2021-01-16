@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:06:48	139/139	---MCZ	200	added ('OK')	text/html	date:Sat,%2016%20Jan%202021%2018:06:46%20GMT	https://6003282030068.htmlsave.net/	C:/Meus%20Sites/uwu/6003282030068.htmlsave.net/index.html	(from )
+15:06:48	94/94	---MCZ	200	added ('OK')	text/plain	date:Sat,%2016%20Jan%202021%2018:06:47%20GMT	https://6003282030068.htmlsave.net/robots.txt		(from )
+15:06:53	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Sat,%2016%20Jan%202021%2018:06:51%20GMT	https://apps.elfsight.com/p/platform.js	C:/Meus%20Sites/uwu/apps.elfsight.com/p/platform.0.delayed	(from https://6003282030068.htmlsave.net/)
+15:06:58	47565/47565	---MCZ	200	added ('OK')	application/javascript	etag:W/%22c6a9142c7bb57af96198752a81f14a2d%22	https://static.elfsight.com/platform/platform.js	C:/Meus%20Sites/uwu/static.elfsight.com/platform/platform.js	(from https://6003282030068.htmlsave.net/)
